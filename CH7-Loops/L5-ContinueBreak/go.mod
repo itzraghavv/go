@@ -1,0 +1,3 @@
+module continueBreak
+
+go 1.24.2
